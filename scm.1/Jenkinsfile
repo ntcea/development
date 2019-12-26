@@ -4,8 +4,8 @@ pipeline {
     stage('Stage-01') {
       steps {
         echo 'build-01'
-        bat 'dir01.bat'
-        bat 'dir02.bat'
+        bat 'scm.1/dir01.bat'
+        bat 'scm.1/dir02.bat'
       }
     }
     stage('Stage-02') {
