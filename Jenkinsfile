@@ -3,13 +3,13 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        build 'job.1 (기본)'
+        build 'job.1 (None)'
       }
     }
 
     stage('execute') {
       steps {
-        build 'job.2 (기본)'
+        build 'job.2 (None)'
       }
     }
 
