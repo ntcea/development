@@ -12,7 +12,7 @@ public class Application {
         System.out.println("############################################################");
         System.out.println("#                                                          #");
         System.out.println("#                 Run java application                     #");
-        System.out.println("#                      [For SVN]                           #");
+        System.out.println("#                   [For Git public]                       #");
         System.out.println("#                                                          #");
         System.out.println("############################################################");
         System.out.println("\n\n");
